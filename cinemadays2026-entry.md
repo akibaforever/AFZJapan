@@ -28,9 +28,8 @@ lang: "ja"
       バルフォア宣言に抗議する形で、宣言が出された11月2日に、全世界で同時開催される映画祭です。
     </p>
     <p>
-      現在、上映会場（ホスト）を募集しています。ホストは、映画を無料で上映をすることができます。<br>
-      映画館、お店、カフェ などの上映スペースをお持ちの方、パレスチナ映画を上映しませんか？ <br>
-      
+      現在、上映会場（ホスト）を募集しています。ホストは、映画を無料で上映することができます。<br>
+      映画館、お店、カフェ、あるいはプライベート空間で、パレスチナ映画を上映しませんか？ <br> 
     </p>
 
     <section>
@@ -39,8 +38,8 @@ lang: "ja"
         <li>イベント名｜パレスチナ映画祭2026<br>
           Palestine Cinema Days Around the World</li>
         <li>主催｜<a href="https://flp.ps/node/2005" target="_blank">Filmlab Palestine</a></li>
-        <li>会場募集締切｜2026年10月11日</li>
       </ul>
+      <p>会場募集締切＝2026年10月11日まで</p>
     </section>
 
     <section>
@@ -67,7 +66,7 @@ lang: "ja"
               <span>{{ m.name_ja }}<br>{{ m.name }}</span>
             </h5>
             <div>
-              <p class="description">{{ m.desc_ja }}</p>
+              <p class="description">{{ m.desc }}</p>
               <div class="article-cta">
                 {{ m.length }}・{{ m.genre }}<br>
                 <span class="badge">音声｜Original Audio</span> {{ m.audio }}<br>
@@ -95,20 +94,14 @@ lang: "ja"
       </p>
       <ol>
         <li>
-          <strong>条件1｜すでにスペースを持っている人向けの募集です</strong><br>
-          基本的には、すでに利用可能なスペースを持っている方に登録頂く想定のものです。<br>
-          上映会のために特別に会場を借りる場合、その資金は主催メンバー内で出すことにとどめることを推奨します。「条件2」とも関連しますが、来場者にカンパを求めることは避けてください。<br>
-        </li>
-        <li>
-          <strong>条件2｜映画を観賞するためのお金をとらない</strong><br>
-          
+          <strong>条件1｜映画を観賞するためのお金をとらない</strong><br>
           ❌ NG例：入場料をとる<br>
           ❌ NG例：カンパで会場費を集める<br>
           ✅ OK例：スペース内でドリンクやグッズの販売をする<br>
           <br>
         </li>
         <li>
-          <strong>条件3｜会場内で寄付金を集める場合、主催（Filmlab Palestine）が募っているものではないことを明示する</strong><br>
+          <strong>条件2｜会場内で寄付金を集める場合、主催（Filmlab Palestine）が募っているものではないことを明示する</strong><br>
           パレスチナのための支援金・寄付金を集めること自体は問題ありません。<br>
           ただし、映画祭の主催（Filmlab Palestine）が集めているものではなく、スペースオーナーが集めているものであることを、はっきりと明示してください。<br>
         </li>
@@ -117,7 +110,7 @@ lang: "ja"
 
     <section>
       <h4>会場登録フォーム</h4>
-      <iframe data-tally-src="https://tally.so/embed/2EdMEg?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" frameborder="0" marginheight="0" marginwidth="0" title="パレスチナ映画祭2026｜上映会場登録" style="width:100%; height:2200px; max-width:900px;"></iframe>
+      <iframe data-tally-src="https://tally.so/embed/2EdMEg?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" frameborder="0" marginheight="0" marginwidth="0" title="パレスチナ映画祭2026｜上映会場登録" style="width:100%; height:2200px; max-width:900px; border: 1px solid #efefef;"></iframe>
 <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
     </section>
 
