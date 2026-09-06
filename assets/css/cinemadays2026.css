@@ -7,6 +7,10 @@ html {
   scroll-padding-top: 32px;
 }
 
+.main-content {
+  font-size: 1.0rem;
+}
+
 h1 {
   padding-bottom: 20px;
 }
@@ -91,6 +95,9 @@ h1 {
   }
 }
 @media only screen and (max-width: 600px) {
+  .main-content {
+    font-size: 0.86rem;
+  }
   .cinemaday-heading-info h1 {
     font-size: 1.8rem;
   }
