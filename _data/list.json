@@ -1719,7 +1719,7 @@
     "type": 2,
     "pref": 20,
     "geo": {"lat": 36.2429728384244, "lon": 137.96506084816173},
-    "links": {"web": "https://www.cafe-rera.com/"}
+    "links": {"web": "https://www.cafe-rera.com/", "insta": "cafe_rera"}
   },
   {
     "name": "みさと屋・野菜食堂",
@@ -1962,13 +1962,6 @@
     "name": "パレスチナのかけら　ガザの声",
     "type": 3,
     "pref": 13
-  },
-  {
-    "name": "カフェ・れあら",
-    "type": 2,
-    "pref": 20,
-    "geo": {"lat": 36.242922238541944, "lon": 137.96412370812956},
-    "links": {"web": "https://www.cafe-rera.com/", "insta": "cafe_rera"}
   },
   {
     "name": "POP UP PALESTINE",
